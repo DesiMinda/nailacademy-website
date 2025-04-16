@@ -36,7 +36,7 @@ A comprehensive platform designed for an academy offering online nail technician
 ![Contact](https://github.com/user-attachments/assets/61466278-230a-4102-8482-fe62736a8ba7)
 
 ### Mobile View
-![Mobile](https://github.com/user-attachments/assets/734da57a-a9e8-4d21-abc7-fb9b95d16f87)
+![Mobile](https://github.com/user-attachments/assets/8a879284-8ce4-4e88-aebd-ca0ba121e9c5)
 
 ## What I Learned
 - Building a structured learning platform inside WordPress
